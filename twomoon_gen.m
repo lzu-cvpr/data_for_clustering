@@ -4,7 +4,7 @@ if nargin == 1
     num2 = num1;
 end;
 if nargin <= 2
-    sigma_noise = 0.12;
+    sigma_noise = 0.2;
 end;
 if nargin <= 3
     level = 0.35;
